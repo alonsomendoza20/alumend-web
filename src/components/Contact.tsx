@@ -38,7 +38,7 @@ export default function Contact() {
 
       setStatus({ sending: false, error: null, success: true });
       setFormData({ name: '', email: '', message: '' });
-    } catch (error) {
+    } catch {
       setStatus({ 
         sending: false, 
         error: 'Error al enviar el mensaje. Por favor, inténtalo de nuevo.', 
