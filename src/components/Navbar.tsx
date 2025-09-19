@@ -12,7 +12,7 @@ export default function Navbar() {
                 src="/logo.svg"
                 alt="Alumend Logo"
                 width={150}
-                height={40}
+                height={150}
                 priority
               />
             </Link>
