@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Sitemap: https://tudominio.com/sitemap.xml
+
+# Optimizado para motores de búsqueda
+# Carpintería de aluminio - Ventanas, Puertas, Mamparas y Cerramientos
